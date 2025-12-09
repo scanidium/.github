@@ -1,0 +1,2 @@
+# .github
+Scanidium Info
